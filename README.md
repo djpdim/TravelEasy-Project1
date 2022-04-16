@@ -66,28 +66,22 @@ When the user enters their destination of choice, and clicks on the "Get Away" b
 * W3 schools
 
 ## Screenshot
-\
+
 * Screenshot of landing page
 ![alt="Screenshot of landing page"](./assets/images/Screenshot1.png)
-\
-\
+
 * Screenshot of when user enters city
 ![alt="Screenshot of when user enters city"](./assets/images/Screenshot2.png)
-\
-\
+
 * Screenshot of weather forecast
 ![alt="Screenshot of weather forecast"](./assets/images/Screenshot3.png)
-\
-\
+
 * Screenshot of hotel results
 ![alt="Screenshot of hotel results"](./assets/images/Screenshot4.png)
-\
-\
+
 * Screenshot of additional travel links
 ![alt="Screenshot of additional travel links"](./assets/images/Screenshot5.png)
 
-## Link to deployed page
-[Travel Easy]( https://cpriyam90.github.io/Travel-Easy-Project1/)
 
 
 
