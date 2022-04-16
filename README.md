@@ -1,10 +1,12 @@
+# Travel-Easy-Project1
+## Link's and Demo
+
 * ['TravelEasy - Github'](https://github.com/djpdim/TravelEasy-Project1)
 * ['TravelEasy - Github IO'](https://djpdim.github.io/TravelEasy-Project1/)
-* ['TravelEasy - Demo']()
+* ['TravelEasy - Demo'](https://drive.google.com/file/d/1SJOld-dG0Uu8Wl3zUTRKrSY6BYI4vIMa/view)
 
-![TravelEasy Demo]()
+![TravelEasy Demo](/assets/demo/Travel%20Easy.gif)
 
-# Travel-Easy-Project1
 ## Description
 "Feeling stuck at home? Need to get away from your computer screen for a weekend? We’re here to make Travel Easy. If you’re looking for spontaneity then we have the results for you. Find all of the cheapest hotel options and the weather forecasts by location and get on your way away."
 \
