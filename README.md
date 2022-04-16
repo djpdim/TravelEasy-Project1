@@ -1,5 +1,5 @@
-* ['TravelEasy - Github'](/)
-* ['TravelEasy - Github IO'](/)
+* ['TravelEasy - Github'](https://github.com/djpdim/TravelEasy-Project1)
+* ['TravelEasy - Github IO'](https://djpdim.github.io/TravelEasy-Project1/)
 * ['TravelEasy - Demo']()
 
 ![TravelEasy Demo]()
